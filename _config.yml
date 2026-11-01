@@ -1,0 +1,15 @@
+title: gander-actions
+tagline: CI/CD actions and workflows by gander
+description: Reusable GitHub Actions and workflows for CI/CD, built and maintained by gander.
+url: https://gander-actions.github.io
+baseurl: ""
+owner:
+  name: gander
+  url: https://github.com/gander
+org_url: https://github.com/gander-actions
+markdown: kramdown
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

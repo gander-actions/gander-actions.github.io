@@ -1,0 +1,9 @@
+# Public repositories of the gander-actions organization, grouped for the landing page.
+# Each project: name, repo (owner/name), description, language, optional links (label + url).
+
+- group: Actions
+  projects:
+    - name: auto-assign
+      repo: gander-actions/auto-assign
+      language: TypeScript
+      description: An internal helper for the gander-* organizations that assigns the owner to every new issue and pull request, and fails loudly if GitHub silently drops the assignment.
